@@ -1,4 +1,4 @@
-# Conception et réalisation d’une application web pour la gestion des projets d’une ecole en
+# Conception et réalisation d’une application web pour la gestion des projets d’une école 
 Dans le cadre de notre Projet de Fin de Cycle, l’école VINCI souhaite mettre en place une application de gestion des progets, qui aura besoin de gérer l’ensemble de ses étudiants, encadrants et projets… à travers une interface web simple et pratique. Pour ce projet on a opté comme démarche, les étapes suivantes : 
   * Recenser les besoins fonctionnels et non fonctionnels du projet. 
   * L’étude technique et la conception détaillée de l’application. 
